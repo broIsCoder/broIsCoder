@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @broIsCoder
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning react
+- 👀 I’m interested in dev
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
